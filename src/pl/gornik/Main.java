@@ -13,7 +13,6 @@ public class Main {
         System.out.println("-------------------------");
         System.out.println(number + " To jest liczba odczytana z klawiatury");
         System.out.printf("%d to jest liczba odczytana z klawiatury\n",number);
-        System.out.println("skigma");
 
     }
 }
